@@ -9,3 +9,5 @@ On this repository, you will find a list of tools, classified by use.
 # Persistence
 # Pivoting
 # Reporting
+# Cracking
+# Training
